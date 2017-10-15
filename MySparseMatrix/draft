@@ -1,0 +1,18 @@
+Matrix the base class, all virtual functions
+       attributes
+        - sparsity degree 
+       functions
+        - read from an import file to store the matrix (could define the delimiters)
+        - access a row/column
+        - multiple/add/' transition?
+        - pagerank calculate the reault
+
+Matrix_CSR -> Matrix
+Matrix_CSC -> Matrix
+Matrix_Coo -> Matrix
+ELL
+DIA
+BSR
+MSR
+...
+...
